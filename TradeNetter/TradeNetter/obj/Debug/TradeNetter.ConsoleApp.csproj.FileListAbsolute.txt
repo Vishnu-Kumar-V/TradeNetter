@@ -1,0 +1,15 @@
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\TradeNetter.exe.config
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\TradeNetter.exe
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\TradeNetter.pdb
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\TradeNetter.Library.dll
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\Unity.Abstractions.dll
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\Unity.Container.dll
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\TradeNetter.Library.pdb
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\Unity.Abstractions.pdb
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\bin\Debug\Unity.Container.pdb
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\obj\Debug\TradeNetter.ConsoleApp.csprojAssemblyReference.cache
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\obj\Debug\TradeNetter.ConsoleApp.csproj.CopyComplete
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\obj\Debug\TradeNetter.exe
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter\obj\Debug\TradeNetter.pdb

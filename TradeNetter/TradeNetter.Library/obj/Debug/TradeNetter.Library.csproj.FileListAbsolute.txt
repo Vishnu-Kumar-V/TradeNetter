@@ -1,0 +1,5 @@
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter.Library\bin\Debug\TradeNetter.Library.dll
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter.Library\bin\Debug\TradeNetter.Library.pdb
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter.Library\obj\Debug\TradeNetter.Library.csprojAssemblyReference.cache
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter.Library\obj\Debug\TradeNetter.Library.dll
+C:\1-Job search\Projects\CF-BG\cleanup\TradeNetter\TradeNetter.Library\obj\Debug\TradeNetter.Library.pdb
