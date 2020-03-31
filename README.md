@@ -55,7 +55,7 @@
  Netted PNL = (-1*100 + 1*115) + (2*110 - 2*120)
   
 • Try to use SOLID principles and an OOP architecture.  
-• The Trade Model needs to have a Direction, a Quantity (int), a Price (double), and an Underlying. 
-• The Core of the Algorithm will take a list (or other data structure) of trades and return the PNL. 
+• The Trade Model needs to have a Direction, a Quantity (int), a Price (double), and an Underlying.
+• The Core of the Algorithm will take a list (or other data structure) of trades and return the PNL.
 • The efficiency of the algorithm is taking in consideration when reviewing the algorithm, but correctness is the most important factor. 
 • Unit tests are not required, rather nice to have. 
